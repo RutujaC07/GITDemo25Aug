@@ -3,3 +3,7 @@ My first git session!!
 Welcome to new git file.
 
 Todays date: 25 Aug 2023.
+
+function bug123(
+//Fixing bug
+)
